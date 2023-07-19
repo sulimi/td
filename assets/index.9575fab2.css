@@ -1,0 +1,1 @@
+.switch-container{display:flex;align-items:center;background:#fafafa;padding:16px 24px}.switch-container .switch-btn{user-select:none;color:#757575;background-color:#e7e7e7;width:74px;padding:4px 6px;border-radius:24px;font-size:14px;margin-right:10px;cursor:pointer}.switch-container .switch-btn.active{color:#fff;background-color:#2c3640}
